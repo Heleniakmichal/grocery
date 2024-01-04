@@ -4,7 +4,7 @@ frontend:
     # IMPORTANT - Please verify your build commands
     build:
       commands:
-      - npm install -g 
+      - npm install 
       - npm run build
   artifacts:
     # IMPORTANT - Please verify your build output directory
