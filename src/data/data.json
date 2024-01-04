@@ -1,0 +1,33 @@
+{
+  "header": {
+    "text":"This is my header form JSON"  
+    },
+  "body":{ 
+     "section": {
+      "h1": "This is my text for h1 tag",  
+      "h2": "This is my text for h2 tag",  
+      "h3": "This is my text for h3 tag",  
+      "p": "The jury also found Cichuniec guilty on one of two second-degree assault charges, which brings the possibility of an enhanced prison sentence and required that he be taken into immediate custody. Cooper was found not guilty on the assault charges and was not taken into custody."
+    },
+    "sectionTwo": {
+      "h1": "This is my text for second h1 tag",  
+      "h2": "This is my text for second h2 tag",  
+      "h3": "This is my text for second h3 tag",  
+      "p": "It also was the last of three trials against police and paramedics charged in the death of McClain, whom officers stopped following a suspicious person complaint. He was injected with the sedative after being forcibly restrained. The case received little attention until protests over the 2020 killing of George Floyd in Minneapolis."
+    },
+    "sectionThree": {
+      "h1": "This is my text for third h1 tag",  
+      "h2": "This is my text for third h2 tag",  
+      "h3": "This is my text for third h3 tag",  
+      "p": "Paramedics were convicted in Elijah McClain’s death. That could make other first responders pause"
+    }
+  },
+  
+  "footer": {
+    "text":"this is my footer"    
+    },
+    
+  "list": {
+    "listtext": ["bread","olives","tomatoes","potatoes","coffee","tea","toilet paper","oil","flour","fruits","gherkins","tofu","lettuce","tomato ketchup","tomatose soace","chickpea","lentills","millet","hummus","kabanos","chedar chees","eggs"]
+  }
+}
